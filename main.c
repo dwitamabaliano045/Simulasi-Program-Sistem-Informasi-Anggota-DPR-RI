@@ -1,6 +1,9 @@
 /* Program Simulasi Sistem Informasi DPR RI
  * by Kelompok 3
  *
+ * @autrhor
+ * @radendwitamabaliano7951
+ * @dwitamabaliano045
  *
  * */
 
